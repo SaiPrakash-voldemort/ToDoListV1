@@ -1,0 +1,28 @@
+.textDisplay {
+  padding: 4px;
+  border-radius: 4px;
+  color: rgb(8, 74, 124);
+  border: none;
+  margin: 5px;
+  font-weight: bold;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 1.5rem;
+  background-color: white;
+  width: 753px;
+}
+.dateDisplay {
+  padding: 4px;
+  border-radius: 4px;
+  color: rgb(8, 74, 124);
+  border: none;
+  margin: 5px;
+  font-weight: bold;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 1.5rem;
+  background-color: white;
+  width: 500px;
+}
+.todoCont {
+  display: flex;
+  align-items: center;
+}

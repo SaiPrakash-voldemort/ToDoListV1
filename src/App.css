@@ -1,0 +1,14 @@
+input {
+  width: 100%;
+}
+
+.myrow {
+  margin: 10px;
+}
+.mybutton {
+  min-width: 80px;
+}
+.Todo_Container {
+  background-color: powderblue;
+  height: 100vh;
+}
